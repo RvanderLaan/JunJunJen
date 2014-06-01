@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="game/|GUI/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/game"/>
+	<classpathentry kind="src" path="src/GUI"/>
+	<classpathentry kind="src" path="sounds"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="soundLib/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
